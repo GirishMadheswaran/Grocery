@@ -1,0 +1,36 @@
+* {
+  font-family: "Times New Roman", Times, serif;
+}
+
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  align-items: center;
+}
+
+input {
+  /* width: 200px;
+  height: 200px; */
+  font-size: 20px;
+  margin: 5px;
+}
+
+.food {
+  width: 400px;
+  height: 250px;
+  border: 2px solid black;
+  margin: 10px;
+  background-color: aqua;
+}
+
+.food button {
+  margin: 10px;
+}
+
+.food h1 {
+  font-size: 2rem;
+  font-weight: bold;
+  margin: 25px;
+}
